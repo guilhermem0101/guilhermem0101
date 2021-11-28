@@ -1,15 +1,10 @@
 ### Olá 👋, Meu nome é Guilherme Matheus
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 Estudando Java
-- 📫 Contato: 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
 - 😄 Pronomes: Ele/Dele
 
 <div>
@@ -20,7 +15,7 @@ Here are some ideas to get you started:
  
 ##
 
-
+- 📫 Contato: 
 <div>
   <a href = "mailto:guilherme.sou@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guimatheus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
