@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Estudando Java
+- 🌱 Estudando Python
 - 😄 Pronomes: Ele/Dele
 
 <div>
